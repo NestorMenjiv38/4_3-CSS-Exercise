@@ -1,1 +1,9 @@
-https://drive.google.com/thumbnail?id=1Xav5Wdu6Tci4oHH5_dkQX7YeVaTs6et7&authuser=1&sz=w1070-h914
+font-weight: 400;
+line-height: 1.25rem;
+font-size: 0.875rem;
+color: #fff;
+visibility: visible;
+font-family: 'Google Sans',Roboto, arial,sans-serif;
+height: 100%;
+position: absolute;
+width: 100%;
